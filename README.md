@@ -10,3 +10,10 @@ Saya sangat antusias dalam eksplorasi data dan pengembangan model analitik. Sela
 Jika Anda ingin tahu lebih banyak tentang proyek dan pekerjaan saya, atau jika Anda ingin berkolaborasi, silakan kunjungi profil saya di [Linkedin](https://www.linkedin.com/in/anastasiahm/) ku ya.
 
 Saya selalu terbuka untuk kesempatan berkolaborasi dan berdiskusi mengenai teknologi dan data.
+
+<p align="left">
+<a href="https://github.com/AnastasiaHarum">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>

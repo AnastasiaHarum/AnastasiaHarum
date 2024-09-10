@@ -10,6 +10,12 @@ Jika Anda ingin tahu lebih banyak tentang proyek dan pekerjaan saya, atau jika A
 
 Saya selalu terbuka untuk kesempatan berkolaborasi dan berdiskusi mengenai teknologi dan data.
 
+- 🔭 I’m currently learning on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 I’m currently learning about machine learning 
+- 💬 Feel free to ask me about Python
+- 📫 How to reach me: anastasiaharumm@gmail.com
+
+  
 ### Tech Stack
 <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <br>

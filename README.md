@@ -3,16 +3,15 @@
 
 Perkenalkan nama saya **Anastasia Harum Mawadah**.<br>
 
-Saya seorang **Mahasiswa Jurusan Matematika**.<br>
+Recent **Mathematics** graduate with a strong foundation in **Statistics**.<br>
 
-Saya sangat antusias dalam eksplorasi data dan pengembangan model analitik. Selain itu, saya aktif dalam berbagai proyek dan kontribusi di komunitas open-source.
-Jika Anda ingin tahu lebih banyak tentang proyek dan pekerjaan saya, atau jika Anda ingin berkolaborasi, silakan kunjungi profil saya di [Linkedin](https://www.linkedin.com/in/anastasiahm/).
+Passionate about data exploration and analytical modeling. Let’s connect — visit my profile at [Linkedin](https://www.linkedin.com/in/anastasiahm/).
 
-Saya selalu terbuka untuk kesempatan berkolaborasi dan berdiskusi mengenai teknologi dan data.
+Open to collaboration and insightful discussions on technology and data innovation.
 
-- 🔭 I’m currently learning on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about machine learning 
-- 💬 Feel free to ask me about Python
+- 💬 Feel free to ask me about Python, R Studio, Excel, SPSS, Mathematica
+- 🔭 Data Visualization: Tableau, Canva, Microsoft PowerPoint
 - 📫 How to reach me: anastasiaharumm@gmail.com
 
   

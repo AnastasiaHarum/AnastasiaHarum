@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Perkenalkan nama saya **Anastasia Harum Mawadah**.<br>
+Hello, I’m **Anastasia Harum Mawadah**.<br>
 
 Recent **Mathematics** graduate with a strong foundation in **Statistics**.<br>
 
